@@ -1,7 +1,6 @@
 // Programmer: Paul Xiong
 // Date: January 20th, 2023
-// Course: ICS3U1-02 - Mr.Fernandes
-// Project: Final Summative Project | CAI Tool: Modular Programming - Classes & Objects
+// Project: CAI Tool: Modular Programming - Classes & Objects
 // Description: A GUI application that teaches about object oriented programming with concepts, an activity, and assessment
 		// Concepts: Providing explanations, images, and video source about object oriented programming
 		// Activity: Displayed 8 buttons where 7 match with the chosen object and 1 doesn't. Click the odd one out
