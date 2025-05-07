@@ -1,0 +1,10 @@
+What is the purpose of a constructor in a class?,Radiobutton,2,to define the behavior of an object,to define the data of an object,to initialize the state of an object when it is created,to define the properties of an object
+What is the purpose of the super keyword in a class?,Radiobutton,0,to call the constructor of the superclass,to call the methods of the superclass,to access the variables of the superclass,to refer to the current object
+What is the difference between a class and an object?,Radiobutton,0,a class is a blueprint| while an object is an instance of that blueprint,a class is a data type| while an object is a variable,a class is a method| while an object is a function,a class is a design pattern| while an object is a code snippet
+What is the main purpose of creating a class in object-oriented programming? (Select all that apply),Checkbox,03,to define the properties and behavior of an object ,to organize related data and methods,to create an object,to group similar functionality together
+Which of the following reason(s) is why object-oriented programming is used? (Select all that apply),Checkbox,123,to make code more complex,to represent real-world things,to organize and reuse code,to model the relationships between different concepts in a system
+Which of the following are attribute(s) of an object? (Select all that apply),Checkbox,012,name,age,address,functionality
+In object-oriented programming| a class can have multiple constructors with the same name.,Radiobutton,1,true,false,,
+Attributes in a class are declared as private.,Radiobutton,0,true,false,,
+To call a method of an object| you use the object name followed by a period and the method name.,Radiobutton,0,true,false,,
+The attributes of an object define the behavior of the object.,Radiobutton,1,true,false,,
